@@ -1,0 +1,23 @@
+## Salida de compilación .NET
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+## Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Configuración local con secretos / overrides (específica de la máquina)
+appsettings.Development.json
+
+## Datos CSV de entrada (no se commitean)
+data/
+
+## Misceláneos
+*.log
+logs/

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/Epidemia.Core/Epidemia.Core.csproj" />
+  <Project Path="src/Epidemia.Secuencial/Epidemia.Secuencial.csproj" />
+  <Project Path="src/Epidemia.Paralelo/Epidemia.Paralelo.csproj" />
+  <Project Path="src/Epidemia.Benchmark/Epidemia.Benchmark.csproj" />
+</Solution>
