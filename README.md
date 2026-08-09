@@ -1,4 +1,4 @@
-# Simulación Monte-Carlo SIRD — Programación Paralela C2-2026
+# Simulación Monte-Carlo SIRD
 
 Simulación Monte-Carlo de un modelo epidemiológico SIRD sobre grilla 2D (1000×1000), con versión secuencial y paralela usando TPL (`Parallel.For`).
 
